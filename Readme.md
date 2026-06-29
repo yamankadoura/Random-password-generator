@@ -18,7 +18,7 @@ A sleek, dark-themed **Random Password Generator** built with **HTML5**, **CSS3*
 ---
 ## 🚀 Live Demo
 
-[Open Password Generator](https://yamankadoura.github.io/Password-Generator/)
+[Open Password Generator](https://yamankadoura.github.io/Random-password-generator/)
 
 ---
 
