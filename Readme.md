@@ -8,11 +8,11 @@
 A sleek, dark-themed **Random Password Generator** built with **HTML5**, **CSS3**, and **Vanilla JavaScript**. Never use an insecure password again—instantly generate four highly secure, randomized passwords containing uppercase, lowercase, numbers, and symbols, and copy them to your clipboard with a single click.
 
 ---
-## 🎥 Demo
-![Password Generator Gameplay Example](./assets/run_example.gif) 
-
 ## 📸 Preview
 ![Password Generator Screenshot](./assets/screenshot.png) 
+
+## 🎥 Demo
+![Password Generator Gameplay Example](./assets/run_example.gif) 
 
 
 ---
